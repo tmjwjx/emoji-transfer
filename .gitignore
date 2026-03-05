@@ -1,0 +1,24 @@
+# Binaries
+emoji-transfer
+emoji-transfer-*
+*.exe
+
+# Go build cache
+/dist/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+.claude/
+
+# Docs
+docs/
+
+# Local emoji library data
+*.db
+*.db-shm
+*.db-wal
