@@ -17,6 +17,7 @@ emoji-transfer-*
 
 # Docs
 docs/
+CLAUDE.md
 
 # Local emoji library data
 *.db
